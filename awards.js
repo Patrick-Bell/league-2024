@@ -1087,6 +1087,7 @@ const findTotalAwayGames = (matches) => {
                 { category: "100th Assist", winner: findNumberAssists(matches, 100)},
                 { category: "150th Assist", winner: findNumberAssists(matches, 150)},
                 { category: "200th Assist", winner: findNumberAssists(matches, 200)},
+                { category: "250th Assist", winner: findNumberAssists(matches, 250)},
                 { category: "Most Assists in Single Game", winner: findPlayersWithMostAssistsInSingleGame(matches)},
                 { category: "Most Assists in Single Month", winner: findPlayersWithMostAssistsInMonth(players)}
             ],
@@ -1108,6 +1109,7 @@ const findTotalAwayGames = (matches) => {
                 { category: "50th Yellow Card", winner: findNumberYellows(matches, 50)},
                 { category: "100th Yellow Card", winner: findNumberYellows(matches, 100)},
                 { category: "200th Yellow Card", winner: findNumberYellows(matches, 200)},
+                { category: "300th Yellow Card", winner: findNumberYellows(matches, 300)},
                 { category: "1st Red Card", winner: findNumberReds(matches, 1) },
                 { category: "10th Red Card", winner: findNumberReds(matches, 10) },
                 { category: "Most Yellow Cards", winner: findPlayersWithMostYellows(players)},

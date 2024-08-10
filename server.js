@@ -7,7 +7,6 @@ const bodyParser = require('body-parser');
 const LocalStrategy = require('passport-local').Strategy;
 const session = require('express-session');
 const methodOverride = require('method-override');
-const { sessionSecret } = require('./secret'); // Adjust the path accordingly
 
 
 const app = express();
@@ -18,8 +17,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 
-
-console.log('Session Secret:', sessionSecret);
 
 app.use(session({
   secret: "secret",
