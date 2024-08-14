@@ -3383,6 +3383,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Kaka"],
             events: ["Kaka 2 goals in less than 2 mins then didn't do anything"]
         },
+        {
+            id: "162",
+            month: "august",
+            match_number: "162",
+            date: "14/08/2024",
+            time: "17:05",
+            condition: "Sun",
+            team1_score: 2, //home team
+            team2_score: 3, //away team
+            team1: ["Russian Keeper", "Puyol", "Mbappe", "Maradonna", "Carragher", "Ronaldo"],
+            team2: ["Allison", "Ferdinand", "Bale", "Bastian", "Joaquin", "Kane"],
+            scorers: ["Joaquin", "Ronaldo", "Carragher", "Kane", "Bale"],
+            assisters: ["Carragher", "Ronaldo", "Bale", "Joaquin"],
+            slingers: ["Bale"],
+            penalties: ["Joaquin"],
+            yellows: ["Allison"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Joaquin"],
+            events: []
+        },
     ]
     
     
