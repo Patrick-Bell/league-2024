@@ -3404,6 +3404,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Joaquin"],
             events: []
         },
+        {
+            id: "163",
+            month: "august",
+            match_number: "163",
+            date: "18/08/2024",
+            time: "12:30",
+            condition: "Sun",
+            team1_score: 0, //home team
+            team2_score: 0, //away team
+            team1: ["2-Face", "Russian Def", "Kaka", "Modric", "Marquez", "Muller"],
+            team2: ["Neuer", "Ferdinand", "Messi", "Maradonna", "Van Persie (red)", "Zlatan"],
+            scorers: [],
+            assisters: [],
+            slingers: [],
+            penalties: [],
+            yellows: ["Kaka", "Maradonna"],
+            reds: [],
+            cleansheets: ["2-Face", "Russian Def", "Kaka", "Modric", "Marquez", "Muller", "Neuer", "Ferdinand", "Messi", "Maradonna", "Van Persie (red)", "Zlatan"],
+            motm: ["Maradonna"],
+            events: ["Most physical game probably this year"]
+        },
     ]
     
     
