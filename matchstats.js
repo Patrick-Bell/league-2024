@@ -3425,6 +3425,132 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Maradonna"],
             events: ["Most physical game probably this year"]
         },
+        {
+            id: "164",
+            month: "august",
+            match_number: "164",
+            date: "22/08/2024",
+            time: "11:20",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 1, //away team
+            team1: ["Boxer", "Hummels", "Mahrez", "Kroos", "Torres", "Jiminez"],
+            team2: ["Bruney", "Ferdinand", "Bowen", "Pogba", "Beckham", "Ronaldo"],
+            scorers: ["Mahrez", "Ronaldo", "Jiminez"],
+            assisters: ["Jiminez", "Bowen"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Beckham", "Ferdinand"],
+            reds: ["Beckham"],
+            cleansheets: [],
+            motm: ["Jiminez"],
+            events: ["Hummels missed time header, Ronaldo scores from it", "Beckham forgot he was on a yellow and took Kroos out"]
+        },
+        {
+            id: "165",
+            month: "august",
+            match_number: "165",
+            date: "22/08/2024",
+            time: "17:05",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 0, //away team
+            team1: ["Neuer", "Puyol", "Mahrez", "Eriksen", "Robinho", "Ronaldo"],
+            team2: ["Boxer", "Hummels", "Kaka", "Pedri", "Berbatov", "Benzema"],
+            scorers: [],
+            assisters: [],
+            slingers: [],
+            penalties: [],
+            yellows: [],
+            reds: ["Neuer", "Puyol", "Mahrez", "Eriksen", "Robinho", "Ronaldo", "Boxer", "Hummels", "Kaka", "Pedri", "Berbatov", "Benzema"],
+            cleansheets: [],
+            motm: ["Boxer"],
+            events: []
+        },
+        {
+            id: "166",
+            month: "august",
+            match_number: "166",
+            date: "23/08/2024",
+            time: "20:50",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 0, //away team
+            team1: ["Russian Keeper", "Russian Def", "Bowen", "Pogba", "Joaquin", "Zlatan"],
+            team2: ["2-Face", "Puyol", "Mane", "Modric", "Berbatov", "Ronaldo"],
+            scorers: [],
+            assisters: [],
+            slingers: [],
+            penalties: [],
+            yellows: ["Bowen"],
+            reds: ["Bowen"],
+            cleansheets: ["Russian Keeper", "Russian Def", "Bowen", "Pogba", "Joaquin", "Zlatan", "2-Face", "Puyol", "Mane", "Modric", "Berbatov", "Ronaldo"],
+            motm: ["Russian Keeper"],
+            events: ["Bowen forgot he was on a yellow and did a dirty clip"]
+        },
+        {
+            id: "167",
+            month: "august",
+            match_number: "167",
+            date: "24/08/2024",
+            time: "14:45",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 2, //away team
+            team1: ["Russian Keeper", "Van Dijk (orange)", "Messi", "Kroos", "Berbatov", "Aguero"],
+            team2: ["2-Face", "Risse", "Mbappe", "Pedri", "Benega", "Benzema"],
+            scorers: ["Berbatov", "Pedri", "Benega", "Aguero"],
+            assisters: ["Aguero", "Benega", "2-Face", "Russian Keeper"],
+            slingers: ["Berbatov", "Benega"],
+            penalties: [],
+            yellows: [],
+            reds: [],
+            cleansheets: [],
+            motm: ["Aguero"],
+            events: ["Berbatov slinger looped in", "Benega slinger right near the post", "Aguero scores with last kick of the game, controversial as whistle was going/went"]
+        },
+        {
+            id: "168",
+            month: "august",
+            match_number: "168",
+            date: "24/08/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 1, //away team
+            team1: ["Bruney", "Caveman", "Son", "Kroos", "Assunco", "Jiminez"],
+            team2: ["Courtois", "Ferdinand", "Mane", "Maradonna", "Benega", "Kane"],
+            scorers: ["Assunco", "Maradonna"],
+            assisters: ["Son", "Benega"],
+            slingers: ["Maradonna"],
+            penalties: [],
+            yellows: ["Kroos"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Maradonna"],
+            events: ["Maradonna slinger wrong footed Bruney", "Bruney made loads of saves throughout the game"]
+        },
+        {
+            id: "169",
+            month: "august",
+            match_number: "169",
+            date: "25/08/2024",
+            time: "12:10",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 1, //away team
+            team1: ["Allison", "Van Dijk (red)", "Kaka", "Eriksen", "Carragher", "Jiminez"],
+            team2: ["Stackers", "Puyol", "Mahrez", "De Bruyne", "Assunco", "Aguero"],
+            scorers: ["Mahrez"],
+            assisters: ["De Bruyne"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Kaka", "Mahrez", "Aguero"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Mahrez"],
+            events: ["Kaka sent off for 2 dirty clips"]
+        }
     ]
     
     
