@@ -3550,6 +3550,48 @@ document.addEventListener("DOMContentLoaded", function () {
             cleansheets: [],
             motm: ["Mahrez"],
             events: ["Kaka sent off for 2 dirty clips"]
+        },
+        {
+            id: "170",
+            month: "august",
+            match_number: "170",
+            date: "25/08/2024",
+            time: "17:30",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["Courtois", "Van Dijk (red)", "Mane", "Kroos", "Carragher", "Jiminez"],
+            team2: ["Boxer", "Puyol", "Beckham (lego)", "Pogba", "Van Persie (orange)", "Zlatan"],
+            scorers: ["Carragher", "Beckham (lego)", "Pogba"],
+            assisters: ["Mane", "Zlatan", "Zlatan"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Carragher", "Zlatan", "Van Persie (orange)", "Puyol"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Beckham (lego)"],
+            events: ["Both goals from away team were from Zlatan free kick shooting and deflecting", "First one Beckham went to block it and it hit him and went in", "Second one Pogba did a prayer and then it came of him and looped onto the bar and in", "Puyol got booked for meating the ref and his hair coming off"]
+        },
+        {
+            id: "171",
+            month: "august",
+            match_number: "171",
+            date: "26/08/2024",
+            time: "13:05",
+            condition: "Clear",
+            team1_score: 3, //home team
+            team2_score: 0, //away team
+            team1: ["Stackers", "Hummels", "Beckham (lego)", "De Bruyne", "Ronaldinho", "Lewandowski"],
+            team2: ["Russian Keeper", "Risse", "Pele", "Kroos", "Henry", "Ronaldo"],
+            scorers: ["Ronaldinho", "Lewandowski", "Hummels"],
+            assisters: ["Lewandowski", "De Bruyne", "Lewandowski"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Henry", "Risse", "Ronaldo"],
+            reds: [],
+            cleansheets: ["Stackers", "Hummels", "Beckham (lego)", "De Bruyne", "Ronaldinho", "Lewandowski"],
+            motm: ["Lewandowski"],
+            events: ["I scored with Ronaldinho, first ft goal for me", "De Bruyne brilliant flick to Lewandowski goal"]
         }
     ]
     
