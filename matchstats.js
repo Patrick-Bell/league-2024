@@ -3592,6 +3592,27 @@ document.addEventListener("DOMContentLoaded", function () {
             cleansheets: ["Stackers", "Hummels", "Beckham (lego)", "De Bruyne", "Ronaldinho", "Lewandowski"],
             motm: ["Lewandowski"],
             events: ["I scored with Ronaldinho, first ft goal for me", "De Bruyne brilliant flick to Lewandowski goal"]
+        },
+        {
+            id: "172",
+            month: "august",
+            match_number: "172",
+            date: "26/08/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 4, //away team
+            team1: ["2-Face", "Risse", "Bale", "Bastian", "Van Persie (red)", "Haaland"],
+            team2: ["Russian Keeper", "Hummels", "Neymar", "De Bruyne", "Beckham", "Muller"],
+            scorers: ["De Bruyne", "Haaland", "Muller", "Beckham", "Neymar"],
+            assisters: ["Neymar", "Bale", "Beckham"],
+            slingers: [],
+            penalties: ["Muller"],
+            yellows: [],
+            reds: [],
+            cleansheets: [],
+            motm: ["Beckham"],
+            events: []
         }
     ]
     
