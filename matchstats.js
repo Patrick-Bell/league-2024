@@ -3613,6 +3613,27 @@ document.addEventListener("DOMContentLoaded", function () {
             cleansheets: [],
             motm: ["Beckham"],
             events: []
+        },
+        {
+            id: "173",
+            month: "august",
+            match_number: "173",
+            date: "30/08/2024",
+            time: "12:00",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["Bruney", "Trippier", "Neymar", "Pogba", "Messi (ft)", "Kane"],
+            team2: ["Stackers", "Russian Def", "Mane", "Pedri", "Berbatov", "Jiminez"],
+            scorers: ["Kane", "Mane", "Mane"],
+            assisters: ["Pogba", "Russian Def", "Berbatov"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Jiminez", "Messi (ft)"],
+            reds: ["Jiminez"],
+            cleansheets: [],
+            motm: ["Mane"],
+            events: ["Jiminez booked immediately for taking kick off when it was the other teams, game started at 12:01 instead of 12:00 because of that"]
         }
     ]
     
