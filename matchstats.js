@@ -3634,7 +3634,28 @@ document.addEventListener("DOMContentLoaded", function () {
             cleansheets: [],
             motm: ["Mane"],
             events: ["Jiminez booked immediately for taking kick off when it was the other teams, game started at 12:01 instead of 12:00 because of that"]
-        }
+        },
+        {
+            id: "174",
+            month: "september",
+            match_number: "174",
+            date: "02/09/2024",
+            time: "12:05",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 2, //away team
+            team1: ["Neuer", "Van Dijk (red)", "Messi", "Kroos", "Van Persie (red)", "Benzema"],
+            team2: ["Boxer", "Risse", "Pele", "Modric", "Joaquin", "Aguero"],
+            scorers: ["Aguero", "Van Dijk (red) (o.g)"],
+            assisters: ["Pele"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Aguero", "Joaquin", "Risse"],
+            reds: [],
+            cleansheets: ["Boxer", "Risse", "Pele", "Modric", "Joaquin", "Aguero"],
+            motm: ["Boxer"],
+            events: ["Pele took on Messi and then crossed it in, Damien threw Van Dijk (red) and he hit the ball and took it away from Neuer"]
+        },
     ]
     
     
