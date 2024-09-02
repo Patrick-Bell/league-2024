@@ -3656,6 +3656,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Boxer"],
             events: ["Pele took on Messi and then crossed it in, Damien threw Van Dijk (red) and he hit the ball and took it away from Neuer"]
         },
+        {
+            id: "175",
+            month: "september",
+            match_number: "175",
+            date: "02/09/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 0, //away team
+            team1: ["Allison", "Tripper", "Mbappe", "Kroos", "Benega", "Kane"],
+            team2: ["Boxer", "Risse", "Mane", "De Bruyne", "Robinho", "Suarez"],
+            scorers: ["Kane"],
+            assisters: ["Benega"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Robinho"],
+            reds: [],
+            cleansheets: ["Allison", "Tripper", "Mbappe", "Kroos", "Benega", "Kane"],
+            motm: [""],
+            events: ["Kane volley form Benega cross"]
+        },
     ]
     
     
