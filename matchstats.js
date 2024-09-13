@@ -3677,6 +3677,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: [""],
             events: ["Kane volley form Benega cross"]
         },
+        {
+            id: "176",
+            month: "september",
+            match_number: "176",
+            date: "09/09/2024",
+            time: "17:15",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 1, //away team
+            team1: ["Russian Keeper", "Trippier", "Mahrez", "De Bruyne", "Torres", "Zlatan"],
+            team2: ["Courtois", "Baldy", "Mbappe", "Kroos", "Henry", "Kane"],
+            scorers: ["Mbappe"],
+            assisters: ["Henry"],
+            slingers: [],
+            penalties: [],
+            yellows: [],
+            reds: [],
+            cleansheets: ["Courtois", "Baldy", "Mbappe", "Kroos", "Henry", "Kane"],
+            motm: [""],
+            events: []
+        },
     ]
     
     
