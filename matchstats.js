@@ -3674,7 +3674,7 @@ document.addEventListener("DOMContentLoaded", function () {
             yellows: ["Robinho"],
             reds: [],
             cleansheets: ["Allison", "Tripper", "Mbappe", "Kroos", "Benega", "Kane"],
-            motm: [""],
+            motm: ["Kane"],
             events: ["Kane volley form Benega cross"]
         },
         {
@@ -3696,6 +3696,90 @@ document.addEventListener("DOMContentLoaded", function () {
             reds: [],
             cleansheets: ["Courtois", "Baldy", "Mbappe", "Kroos", "Henry", "Kane"],
             motm: [""],
+            events: ["Mbappe diving header from Henry cross"]
+        },
+        {
+            id: "177",
+            month: "september",
+            match_number: "177",
+            date: "13/09/2024",
+            time: "11:10",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 2, //away team
+            team1: ["Allison", "Ramos (lego)", "Neymar", "Maradonna", "Marquez", "Aguero"],
+            team2: ["2-Face", "Baldy", "Bale", "Eriksen", "Ronaldinho", "Kane"],
+            scorers: ["Kane", "Ramos (lego)", "Aguero", "Baldy"],
+            assisters: ["Bale", "Bale"],
+            slingers: [],
+            penalties: ["Aguero"],
+            yellows: [],
+            reds: [],
+            cleansheets: [],
+            motm: ["Bale"],
+            events: ["Baldy did try and help Marquez get some stats but he missed 4/5 good chances", "Gave away a penalty to Aguero, similar to Gordon penalty", "Ramos free kick bar and in"]
+        },
+        {
+            id: "178",
+            month: "september",
+            match_number: "178",
+            date: "13/09/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 2, //away team
+            team1: ["2-Face", "Trippier", "Bowen", "Pogba", "Van Persie (orange)", "Suarez"],
+            team2: ["Bruney", "Russian Def", "Mahrez", "Bastian", "Benega", "Zlatan"],
+            scorers: ["Zlatan", "Bowen", "Van Persie (orange)", "Bastian"],
+            assisters: ["Benega", "Suarez", "Pogba", "Zlatan"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Van Persie (orange)"],
+            reds: ["Van Persie (orange)", "Zlatan"],
+            cleansheets: [],
+            motm: [],
+            events: []
+        },
+        {
+            id: "179",
+            month: "september",
+            match_number: "179",
+            date: "14/09/2024",
+            time: "11:45",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 1, //away team
+            team1: ["Boxer", "Caveman", "Pele", "Eriksen", "Torres", "Haaland"],
+            team2: ["Courtois", "Risse", "Bale", "De Bruyne", "Joaquin", "Lewandowski"],
+            scorers: ["Haaland", "Joaquin", "Eriksen"],
+            assisters: ["Torres", "Bale", "Pele"],
+            slingers: [],
+            penalties: [],
+            yellows: [],
+            reds: [],
+            cleansheets: [],
+            motm: [],
+            events: []
+        },
+        {
+            id: "180",
+            month: "september",
+            match_number: "180",
+            date: "14/09/2024",
+            time: "14:35",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 0, //away team
+            team1: ["Boxer", "Ramos (lego)", "Kaka", "De Bruyne", "Beckham", "Muller"],
+            team2: ["Courtois", "Russian Def", "Messi", "Pogba", "Van Persie (red)", "Ronaldo"],
+            scorers: ["Beckham"],
+            assisters: ["De Bruyne"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Beckham"],
+            reds: [],
+            cleansheets: ["Boxer", "Ramos (lego)", "Kaka", "De Bruyne", "Beckham", "Muller"],
+            motm: [],
             events: []
         },
     ]
