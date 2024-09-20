@@ -3866,6 +3866,48 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: [],
             events: []
         },
+        {
+            id: "185",
+            month: "september",
+            match_number: "185",
+            date: "19/09/2024",
+            time: "14:05",
+            condition: "Clear",
+            team1_score: 3, //home team
+            team2_score: 1, //away team
+            team1: ["Neuer", "Hummels", "Bale", "De Bruyne", "Benega", "Muller"],
+            team2: ["Allison", "Russian Def", "Kaka", "Maradonna", "Berbatov", "Suarez"],
+            scorers: ["Muller", "Muller", "Bale", "Suarez"],
+            assisters: ["Benega", "De Bruyne", "Berbatov"],
+            slingers: ["Muller"],
+            penalties: [],
+            yellows: ["Berbatov", "Benega", "Muller"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Muller"],
+            events: []
+        },
+        {
+            id: "186",
+            month: "september",
+            match_number: "186",
+            date: "19/09/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 1, //away team
+            team1: ["Stackers", "Ferdinand", "Bale", "Eriksen", "Ramos", "Zlatan"],
+            team2: ["Boxer", "Risse", "Bowen", "Bastian", "Marquez", "Aguero"],
+            scorers: ["Aguero"],
+            assisters: ["Marquez"],
+            slingers: ["Aguero"],
+            penalties: [],
+            yellows: ["Bastian", "Risse"],
+            reds: [],
+            cleansheets: ["Boxer", "Risse", "Bowen", "Bastian", "Marquez", "Aguero"],
+            motm: ["Boxer"],
+            events: ["Aguero swivelled Ferdinand somehow, and then shifted on weaker foot and it went round and then into the opposite corner slinger", "Boxer made probably one of the 2 best saves"]
+        },
     ]
     
     
