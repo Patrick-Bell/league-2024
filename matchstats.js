@@ -3992,6 +3992,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Modric"],
             events: []
         },
+        {
+            id: "191",
+            month: "september",
+            match_number: "191",
+            date: "22/09/2024",
+            time: "18:55",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 2, //away team
+            team1: ["Allison", "Ferdinand", "Bowen", "Modric", "Ronaldinho", "Muller"],
+            team2: ["Bruney", "Puyol", "Son", "Bastian", "Benega", "Suarez"],
+            scorers: ["Modric", "Muller", "Suarez", "Bastian"],
+            assisters: ["Muller", "Bowen"],
+            slingers: ["Modric", "Bastian"],
+            penalties: ["Suarez"],
+            yellows: ["Bastian", "Ferdinand", "Ronaldinho"],
+            reds: [],
+            cleansheets: [],
+            motm: [],
+            events: []
+        },
     ]
     
     
