@@ -3996,8 +3996,8 @@ document.addEventListener("DOMContentLoaded", function () {
             id: "191",
             month: "september",
             match_number: "191",
-            date: "22/09/2024",
-            time: "18:55",
+            date: "23/09/2024",
+            time: "13:05",
             condition: "Clear",
             team1_score: 2, //home team
             team2_score: 2, //away team
@@ -4012,6 +4012,48 @@ document.addEventListener("DOMContentLoaded", function () {
             cleansheets: [],
             motm: [],
             events: []
+        },
+        {
+            id: "192",
+            month: "september",
+            match_number: "192",
+            date: "23/09/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["Boxer", "Russian Def", "Son", "Pedri", "Van Persie (red)", "Suarez"],
+            team2: ["2-Face", "Puyol", "Bale", "Modric", "Messi (ft)", "Ronaldo"],
+            scorers: ["Bale", "Bale", "Van Persie (red)"],
+            assisters: ["Modric", "Modric", "Pedri"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Puyol", "Modric", "Messi (ft)"],
+            reds: [],
+            cleansheets: [],
+            motm: [],
+            events: ["Van Persie (red) played mad, Bale scored 2 identical goals from 2 Modric passes, ripped Pedri on one of them"]
+        },
+        {
+            id: "193",
+            month: "september",
+            match_number: "193",
+            date: "23/09/2024",
+            time: "20:15",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 1, //away team
+            team1: ["Courtois", "Ramos (lego)", "Neymar", "Kroos", "Joaquin", "Ronaldo"],
+            team2: ["Boxer", "Russian Def", "Pele", "Maradonna", "Torres", "Suarez"],
+            scorers: ["Pele"],
+            assisters: [],
+            slingers: ["Pele"],
+            penalties: [],
+            yellows: ["Maradonna"],
+            reds: [],
+            cleansheets: ["Boxer", "Russian Def", "Pele", "Maradonna", "Torres", "Suarez"],
+            motm: ["Pele"],
+            events: ["Joaquin cut out and Pele quickly knicked it and scored slinger"]
         },
     ]
     

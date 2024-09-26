@@ -1072,6 +1072,7 @@ const findTotalAwayGames = (matches) => {
                 { category: "1st Slinger", winner: findNumberSlingers(matches, 1) },
                 { category: "10th Slinger", winner: findNumberSlingers(matches, 10)},
                 { category: "25th Slinger", winner: findNumberSlingers(matches, 25)},
+                { category: '50th Slinger', winner: findNumberSlingers(matches, 50)},
                 { category: "Most Slingers", winner: findPlayerWithMostSlingers(players) },
                 { category: "Most Goals in Single Game", winner: findPlayersWithMostGoalsInSingleGame(matches)},
                 { category: "Most Goals in a Single Month", winner: findPlayersWithMostGoalsInMonth(players)}
@@ -1090,6 +1091,7 @@ const findTotalAwayGames = (matches) => {
                 { category: "150th Assist", winner: findNumberAssists(matches, 150)},
                 { category: "200th Assist", winner: findNumberAssists(matches, 200)},
                 { category: "250th Assist", winner: findNumberAssists(matches, 250)},
+                { category: '300th Assist', winner: findNumberAssists(matches, 300)},
                 { category: "Most Assists in Single Game", winner: findPlayersWithMostAssistsInSingleGame(matches)},
                 { category: "Most Assists in Single Month", winner: findPlayersWithMostAssistsInMonth(players)}
             ],
