@@ -4055,6 +4055,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Pele"],
             events: ["Joaquin cut out and Pele quickly knicked it and scored slinger"]
         },
+        {
+            id: "194",
+            month: "september",
+            match_number: "194",
+            date: "26/09/2024",
+            time: "20:35",
+            condition: "Clear",
+            team1_score: 3, //home team
+            team2_score: 1, //away team
+            team1: ["Neuer", "Puyol", "Bowen", "Kroos", "Ramos", "Haaland"],
+            team2: ["Russian Keeper", "Risse", "Mbappe", "Maradonna", "Assunco", "Suarez"],
+            scorers: ["Haaland", "Neuer", "Bowen (o.g)", "Haaland"],
+            assisters: ["Puyol", "Neuer"],
+            slingers: [],
+            penalties: ["Neuer"],
+            yellows: [],
+            reds: [],
+            cleansheets: [],
+            motm: ["Neuer"],
+            events: ["Neuer is the first keeper to score"]
+        },
     ]
     
     
