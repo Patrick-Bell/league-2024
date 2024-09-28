@@ -4097,6 +4097,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: [],
             events: ["Berbatov amazing free kick", "Bale brilliant touch on Eriksen and then shot on floor into slinger"]
         },
+        {
+            id: "196",
+            month: "september",
+            match_number: "196",
+            date: "28/09/2024",
+            time: "11:40",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 2, //away team
+            team1: ["Stackers", "Ramos (lego)", "Mahrez", "Pedri", "Carragher", "Aguero"],
+            team2: ["Russian Keeper", "Hummels", "Son", "De Bruyne", "Joaquin", "Zlatan"],
+            scorers: ["Zlatan", "De Bruyne"],
+            assisters: ["De Bruyne", "Hummels"],
+            slingers: ["Zlatan"],
+            penalties: [],
+            yellows: ["Joaquin", "Mahrez", "Hummels"],
+            reds: [],
+            cleansheets: ["Russian Keeper", "Hummels", "Son", "De Bruyne", "Joaquin", "Zlatan"],
+            motm: ["De Bruyne"],
+            events: ["DE Bruyne nut meg on Mahrez before passing it to Zlatan for goal"]
+        },
     ]
     
     
