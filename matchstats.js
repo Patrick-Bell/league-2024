@@ -4076,6 +4076,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Neuer"],
             events: ["Neuer is the first keeper to score"]
         },
+        {
+            id: "195",
+            month: "september",
+            match_number: "195",
+            date: "27/09/2024",
+            time: "20:35",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 1, //away team
+            team1: ["Stackers", "Van Dijk (red)", "Bale", "Pedri", "Berbatov", "Haaland"],
+            team2: ["Courtois", "Risse", "Beckham (lego)", "Eriksen", "Ronaldinho", "Suarez"],
+            scorers: ["Van Dijk (red) (o.g)", "Berbatov", "Bale"],
+            assisters: ["Pedri"],
+            slingers: ["Bale"],
+            penalties: [],
+            yellows: ["Suarez", "Ronaldinho", "Stackers", "Risse"],
+            reds: [],
+            cleansheets: [],
+            motm: [],
+            events: ["Berbatov amazing free kick", "Bale brilliant touch on Eriksen and then shot on floor into slinger"]
+        },
     ]
     
     
