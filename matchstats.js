@@ -4118,6 +4118,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["De Bruyne"],
             events: ["DE Bruyne nut meg on Mahrez before passing it to Zlatan for goal"]
         },
+        {
+            id: "197",
+            month: "september",
+            match_number: "197",
+            date: "28/09/2024",
+            time: "15:30",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["Stackers", "Puyol", "Son", "Bastian", "Ronaldinho", "Benzema"],
+            team2: ["Allison", "Van Dijk (orange)", "Neymar", "Pedri", "Van Persie (red)", "Aguero"],
+            scorers: ["Neymar", "Van Persie (red)", "Son"],
+            assisters: ["Pedri", "Pedri"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Van Persie (red)", "Pedri"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Pedri"],
+            events: ["Son missed a penalty to make it 2-2"]
+        },
     ]
     
     
