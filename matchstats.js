@@ -4139,6 +4139,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Pedri"],
             events: ["Son missed a penalty to make it 2-2"]
         },
+        {
+            id: "198",
+            month: "september",
+            match_number: "198",
+            date: "29/09/2024",
+            time: "13:15",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 0, //away team
+            team1: ["Boxer", "Ferdinand", "Mbappe", "Pedri", "Bechkam", "Lewandowski"],
+            team2: ["Russian Keeper", "Risse", "Pele", "Eriksen", "Messi (ft)", "Muller"],
+            scorers: [],
+            assisters: [],
+            slingers: [],
+            penalties: [],
+            yellows: ["Risse", "Beckham", "Mbappe", "Eriksen"],
+            reds: [],
+            cleansheets: ["Boxer", "Ferdinand", "Mbappe", "Pedri", "Bechkam", "Lewandowski", "Russian Keeper", "Risse", "Pele", "Eriksen", "Messi (ft)", "Muller"],
+            motm: [""],
+            events: ["Risse was not suppose to play and he knew, Ref realised 5 mins into game, Black Hair took over the game"]
+        },
     ]
     
     
