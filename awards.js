@@ -1035,6 +1035,7 @@ const findTotalAwayGames = (matches) => {
                 { month: "June", winner: "Benega"},
                 { month: "July", winner: "Stackers"},
                 { month: "August", winner: "Mahrez"},
+                { month: "September",winner: "Boxer" }
 
             ],
         },
