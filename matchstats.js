@@ -4010,7 +4010,7 @@ document.addEventListener("DOMContentLoaded", function () {
             yellows: ["Bastian", "Ferdinand", "Ronaldinho"],
             reds: [],
             cleansheets: [],
-            motm: [],
+            motm: ["Muller"],
             events: []
         },
         {
@@ -4031,7 +4031,7 @@ document.addEventListener("DOMContentLoaded", function () {
             yellows: ["Puyol", "Modric", "Messi (ft)"],
             reds: [],
             cleansheets: [],
-            motm: [],
+            motm: ["Bale"],
             events: ["Van Persie (red) played mad, Bale scored 2 identical goals from 2 Modric passes, ripped Pedri on one of them"]
         },
         {
@@ -4094,7 +4094,7 @@ document.addEventListener("DOMContentLoaded", function () {
             yellows: ["Suarez", "Ronaldinho", "Stackers", "Risse"],
             reds: [],
             cleansheets: [],
-            motm: [],
+            motm: ["Bale"],
             events: ["Berbatov amazing free kick", "Bale brilliant touch on Eriksen and then shot on floor into slinger"]
         },
         {
@@ -4157,7 +4157,7 @@ document.addEventListener("DOMContentLoaded", function () {
             yellows: ["Risse", "Beckham", "Mbappe", "Eriksen"],
             reds: [],
             cleansheets: ["Boxer", "Ferdinand", "Mbappe", "Pedri", "Bechkam", "Lewandowski", "Russian Keeper", "Risse", "Pele", "Eriksen", "Messi (ft)", "Muller"],
-            motm: [""],
+            motm: ["Ferdinand"],
             events: ["Risse was not suppose to play and he knew, Ref realised 5 mins into game, Black Hair took over the game"]
         },
         {
@@ -4188,8 +4188,8 @@ document.addEventListener("DOMContentLoaded", function () {
             date: "30/09/2024",
             time: "17:15",
             condition: "Rain",
-            team1_score: 0, //home team
-            team2_score: 0, //away team
+            team1_score: 1, //home team
+            team2_score: 1, //away team
             team1: ["Courtois", "Trippier", "Bowen", "Eriksen", "Marquez", "Muller"],
             team2: ["Boxer", "Van Dijk (orange)", "Neymar", "Modric", "Ramos", "Zlatan"],
             scorers: ["Eriksen", "Van Dijk (orange)"],
@@ -4199,8 +4199,29 @@ document.addEventListener("DOMContentLoaded", function () {
             yellows: [],
             reds: [],
             cleansheets: [],
-            motm: [],
+            motm: ["Zlatan"],
             events: []
+        },
+        {
+            id: "201",
+            month: "october",
+            match_number: "201",
+            date: "03/10/2024",
+            time: "11:10",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 1, //away team
+            team1: ["Courtois", "Hummels", "Bowen", "Eriksen", "Beckham", "Suarez"],
+            team2: ["Boxer", "Ferdinand", "Mane", "Pedri", "Marquez", "Benzema"],
+            scorers: ["Beckham (o.g)", "Eriksen"],
+            assisters: ["Bowen"],
+            slingers: ["Eriksen"],
+            penalties: [],
+            yellows: ["Hummels", "Bowen", "Eriksen", "Beckham", "Ferdinand", "Pedri", "Marquez"],
+            reds: ["Bowen"],
+            cleansheets: [],
+            motm: [],
+            events: ["Hummels kicked the ball and it hit Mendy, Mendy came down and had beef"]
         },
     ]
     

@@ -57,7 +57,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 0, draws: 3, losses: 3, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 3, draws: 1, losses: 0, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 5, draws: 3, losses: 2, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -216,7 +216,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 3, draws: 4, losses: 2, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 1, draws: 2, losses: 2, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 1, draws: 6, losses: 2, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -276,7 +276,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 5, draws: 4, losses: 1, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 1, draws: 3, losses: 1, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 2, draws: 1, losses: 2, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -476,7 +476,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 2, draws: 2, losses: 0, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 2, draws: 3, losses: 1, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 1, draws: 0, losses: 1, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -536,7 +536,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 2, draws: 2, losses: 3, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 2, draws: 3, losses: 1, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 1, draws: 0, losses: 2, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -636,7 +636,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 1, draws: 1, losses: 2, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 2, draws: 3, losses: 5, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -796,7 +796,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 0, draws: 2, losses: 0, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 2, draws: 0, losses: 1, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 1, draws: 2, losses: 0, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -836,7 +836,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 2, draws: 3, losses: 1, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 0, draws: 1, losses: 2, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 2, draws: 3, losses: 1, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -996,7 +996,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 1, draws: 2, losses: 2, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 1, draws: 4, losses: 1, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 1, draws: 3, losses: 1, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -1176,7 +1176,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 3, draws: 2, losses: 1, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 1, draws: 3, losses: 0, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -1216,7 +1216,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 3, draws: 0, losses: 2, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 4, draws: 1, losses: 0, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 2, draws: 1, losses: 1, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
@@ -1256,7 +1256,7 @@ const teams = [
             { month: "July", gamesPlayed: 0, wins: 3, draws: 4, losses: 3, points: 0 },
             { month: "August", gamesPlayed: 0, wins: 1, draws: 1, losses: 1, points: 0 },
             { month: "September", gamesPlayed: 0, wins: 2, draws: 3, losses: 4, points: 0 },
-            { month: "October", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
+            { month: "October", gamesPlayed: 0, wins: 0, draws: 1, losses: 0, points: 0 },
             { month: "November", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
             { month: "December", gamesPlayed: 0, wins: 0, draws: 0, losses: 0, points: 0 },
         ]
