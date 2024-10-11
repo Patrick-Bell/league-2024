@@ -4286,6 +4286,69 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: [],
             events: ["Zlatan flick over Robinho and score", "Courtois made loads of saves"]
         },
+        {
+            id: "205",
+            month: "october",
+            match_number: "205",
+            date: "06/10/2024",
+            time: "16:15",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["Courtois", "Van Dijk (orange)", "Son", "Maradonna", "Messi (ft)", "Aguero"],
+            team2: ["Russian Keeper", "Hummels", "Mahrez", "De Bruyne", "Henry", "Muller"],
+            scorers: ["Son", "De Bruyne", "De Bruyne"],
+            assisters: ["Maradonna", "Henry", "Muller"],
+            slingers: ["Son"],
+            penalties: [],
+            yellows: ["Messi (ft)", "Aguero"],
+            reds: [],
+            cleansheets: [],
+            motm: ["De Bruyne"],
+            events: ["Both De Bruyne goal he was just in the right place and it hit him.", "First one, just went over the line, Courtois, hit it off and then cleared it and it lobbed over the Russian Keeper clipping the bar but sadly could not give it, best goal ever"]
+        },
+        {
+            id: "206",
+            month: "october",
+            match_number: "206",
+            date: "07/10/2024",
+            time: "11:25",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["2-Face", "Baldy", "Kaka", "Modric", "Berbatov", "Aguero"],
+            team2: ["Courtois", "Van Dijk (red)", "Mane", "Eriksen", "Robinho", "Haaland"],
+            scorers: ["Haaland", "Berbatov", "Haaland"],
+            assisters: ["Robinho", "Modric", "Van Dijk (red)"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Mane", "Robinho", "Aguero"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Van Dijk (red)"],
+            events: ["Berbatov header, contact from Modric corner"]
+        },
+        {
+            id: "207",
+            month: "october",
+            match_number: "207",
+            date: "07/10/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 0, //away team
+            team1: ["Stackers", "Trippier", "Kaka", "Maradonna", "Ronaldinho", "Haaland"],
+            team2: ["Russian Keeper", "Ramos (lego)", "Messi", "Modric", "Henry", "Muller"],
+            scorers: [],
+            assisters: [],
+            slingers: [],
+            penalties: [],
+            yellows: ["Ronaldinho"],
+            reds: [],
+            cleansheets: ["Stackers", "Trippier", "Kaka", "Maradonna", "Ronaldinho", "Haaland", "Russian Keeper", "Ramos (lego)", "Messi", "Modric", "Henry", "Muller"],
+            motm: [],
+            events: ["Messi got a penalty and then hit the bar and missed it"]
+        },
     ]
     
     
