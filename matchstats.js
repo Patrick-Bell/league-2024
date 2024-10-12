@@ -4349,6 +4349,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: [],
             events: ["Messi got a penalty and then hit the bar and missed it"]
         },
+        {
+            id: "208",
+            month: "october",
+            match_number: "208",
+            date: "11/10/2024",
+            time: "11:25",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 0, //away team
+            team1: ["Bruney", "Ramos (lego)", "Mane", "De Bruyne", "Robinho", "Haaland"],
+            team2: ["Boxer", "Van Dijk (orange)", "Mahrez", "Bastian", "Van Persie (red)", "Kane"],
+            scorers: [],
+            assisters: [],
+            slingers: [],
+            penalties: [],
+            yellows: ["De Bruyne"],
+            reds: [],
+            cleansheets: ["Bruney", "Ramos (lego)", "Mane", "De Bruyne", "Robinho", "Haaland","Boxer", "Van Dijk (orange)", "Mahrez", "Bastian", "Van Persie (red)", "Kane" ],
+            motm: [],
+            events: ["Bastian had Robinho", "Good link up by Kane"]
+        },
     ]
     
     
