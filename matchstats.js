@@ -4370,6 +4370,90 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: [],
             events: ["Bastian had Robinho", "Good link up by Kane"]
         },
+        {
+            id: "209",
+            month: "october",
+            match_number: "209",
+            date: "11/10/2024",
+            time: "17:10",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 2, //away team
+            team1: ["Courtois", "Puyol", "Mane", "Kroos", "Assunco", "Jiminez"],
+            team2: ["Bruney", "Van Dijk (red)", "Messi", "Bastian", "Ronaldinho", "Muller"],
+            scorers: ["Muller", "Mane", "Ronaldinho", "Assunco"],
+            assisters: ["Messi", "Jiminez", "Muller"],
+            slingers: ["Ronaldinho"],
+            penalties: ["Assunco"],
+            yellows: ["Ronaldinho", "Van Dijk (red)", "Muller"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Ronaldinho"],
+            events: ["Van Dijk hand ball from a free kick", "Ronaldinho slinger when he was banned"]
+        },
+        {
+            id: "210",
+            month: "october",
+            match_number: "210",
+            date: "12/10/2024",
+            time: "12:00",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 0, //away team
+            team1: ["2-Face", "Puyol", "Neymar", "Modric", "Joaquin", "Zlatan"],
+            team2: ["Russian Keeper", "Van Dijk (red)", "Mahrez", "De Bruyne", "Berbatov", "Lewandowski"],
+            scorers: ["Zlatan", "Joaquin"],
+            assisters: ["Modric", "Modric"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Modric", "Berbatov", "Mahrez"],
+            reds: [],
+            cleansheets: ["2-Face", "Puyol", "Neymar", "Modric", "Joaquin", "Zlatan"],
+            motm: [],
+            events: ["Zlatan brilliant hold up play flicked it over Berbatov for one of them and nearly scored a half volley"]
+        },
+        {
+            id: "211",
+            month: "october",
+            match_number: "211",
+            date: "12/10/2024",
+            time: "17:05",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 2, //away team
+            team1: ["Boxer", "Van Dijk (red)", "Beckham (lego)", "Eriksen", "Assunco", "Ronaldo"],
+            team2: ["Allison", "Ramos (lego)", "Kaka", "Modric", "Henry", "Lewandowksi"],
+            scorers: ["Lewandowski", "Lewandowski", "Beckham (lego)"],
+            assisters: ["Henry", "Ronaldo"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Henry", "Allison"],
+            reds: [],
+            cleansheets: [],
+            motm: ["Lewandowski"],
+            events: ["Beckham half volley"]
+        },
+        {
+            id: "212",
+            month: "october",
+            match_number: "212",
+            date: "13/10/2024",
+            time: "17:05",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 1, //away team
+            team1: ["Bruney", "Ferdinand", "Neymar", "Modric", "Marquez", "Haaland"],
+            team2: ["Russian Keeper", "Van Dijk (red)", "Mahrez", "Pedri", "Ramos", "Kane"],
+            scorers: ["Ramos"],
+            assisters: ["Russian Keeper"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Mahrez"],
+            reds: ["Mahrez"],
+            cleansheets: ["Russian Keeper", "Van Dijk (red)", "Mahrez", "Pedri", "Ramos", "Kane"],
+            motm: ["Ramos"],
+            events: ["Ramos swivel on Ferdinand"]
+        },
     ]
     
     
