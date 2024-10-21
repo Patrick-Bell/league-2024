@@ -4454,6 +4454,27 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Ramos"],
             events: ["Ramos swivel on Ferdinand"]
         },
+        {
+            id: "213",
+            month: "october",
+            match_number: "213",
+            date: "15/10/2024",
+            time: "17:05",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 3, //away team
+            team1: ["Russian Keeper", "Van Dijk (red)", "Pele", "Modric", "Ramos", "Ronaldo"],
+            team2: ["Neuer", "Hummels", "Mbappe", "Pogba", "Beckham", "Kane"],
+            scorers: ["Kane", "Ramos", "Pele", "Kane", "Mbappe"],
+            assisters: ["Beckham", "Modric", "Hummels", "Pogba"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Neuer"],
+            reds: ["Beckham"],
+            cleansheets: [],
+            motm: ["Kane"],
+            events: ["Beckham red card for breaking Van Dijk wrist"]
+        },
     ]
     
     
