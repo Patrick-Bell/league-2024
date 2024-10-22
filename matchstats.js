@@ -4475,6 +4475,48 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Kane"],
             events: ["Beckham red card for breaking Van Dijk wrist"]
         },
+        {
+            id: "214",
+            month: "october",
+            match_number: "214",
+            date: "16/10/2024",
+            time: "17:05",
+            condition: "Clear",
+            team1_score: 1, //home team
+            team2_score: 1, //away team
+            team1: ["Bruney", "Ferdinand", "Pele", "Bastian", "Joaquin", "Suarez"],
+            team2: ["Allison", "Russian Def", "Mane", "Kroos", "Assunco", "Haaland"],
+            scorers: ["Mane", "Bastian"],
+            assisters: ["Assunco", "Pele"],
+            slingers: [],
+            penalties: [],
+            yellows: [],
+            reds: [],
+            cleansheets: [],
+            motm: [],
+            events: ["Mane swivel on Ferdinand, bar and in"]
+        },
+        {
+            id: "215",
+            month: "october",
+            match_number: "215",
+            date: "19/10/2024",
+            time: "17:05",
+            condition: "Clear",
+            team1_score: 0, //home team
+            team2_score: 1, //away team
+            team1: ["Boxer", "Ramos (lego)", "Messi", "De Bruyne", "Beckham", "Zlatan"],
+            team2: ["Russian Keeper", "Hummels", "Bale", "Kroos", "Henry", "Lewandowski"],
+            scorers: ["Henry"],
+            assisters: ["Lewandowski"],
+            slingers: ["Henry"],
+            penalties: [],
+            yellows: ["Ronaldinho"],
+            reds: [],
+            cleansheets: ["Russian Keeper", "Hummels", "Bale", "Kroos", "Henry", "Lewandowski"],
+            motm: ["Henry"],
+            events: []
+        },
     ]
     
     
