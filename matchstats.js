@@ -4517,6 +4517,48 @@ document.addEventListener("DOMContentLoaded", function () {
             motm: ["Henry"],
             events: []
         },
+        {
+            id: "216",
+            month: "october",
+            match_number: "216",
+            date: "22/10/2024",
+            time: "12:10",
+            condition: "Clear",
+            team1_score: 2, //home team
+            team2_score: 0, //away team
+            team1: ["Bruney", "Risse", "Mane", "Kroos", "Joaquin", "Kane"],
+            team2: ["Russian Keeper", "Van Dijk (red)", "Neymar", "Bastian", "Robinho", "Muller"],
+            scorers: ["Mane", "Mane"],
+            assisters: ["Joaquin", "Kroos"],
+            slingers: [],
+            penalties: [],
+            yellows: ["Kroos", "Robinho", "Kane", "Bastian"],
+            reds: [],
+            cleansheets: ["Bruney", "Risse", "Mane", "Kroos", "Joaquin", "Kane"],
+            motm: ["Mane"],
+            events: []
+        },
+        {
+            id: "217",
+            month: "october",
+            match_number: "217",
+            date: "22/10/2024",
+            time: "17:15",
+            condition: "Clear",
+            team1_score: 3, //home team
+            team2_score: 2, //away team
+            team1: ["2-Face", "Van Dijk (red)", "Neymar", "De Bruyne", "Benega", "Jiminez"],
+            team2: ["Boxer", "Baldy", "Son", "Maradonna", "Ronaldinho", "Benzema"],
+            scorers: ["Van Dijk (red)", "Ronaldinho", "Son", "De Bruyne", "Jiminez"],
+            assisters: ["De Bruyne", "Ronaldinho", "De Bruyne"],
+            slingers: ["Ronaldinho"],
+            penalties: [],
+            yellows: ["Jiminez"],
+            reds: ["Jiminez"],
+            cleansheets: [],
+            motm: ["De Bruyne"],
+            events: []
+        }, // Need to check yellow cards and assist for Ronaldinho goal if there was one.
     ]
     
     
